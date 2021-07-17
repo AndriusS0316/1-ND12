@@ -1,2 +1,2 @@
-// vienuolikta uzduotis
+// dvylikta uzduotis
 
